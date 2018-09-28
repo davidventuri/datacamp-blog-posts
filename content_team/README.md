@@ -58,8 +58,8 @@ Meet [Richie](https://www.linkedin.com/in/richierocks/) and [Kaelen](https://www
 
 Meet [David](https://www.linkedin.com/in/davidventuri/) (me!), Curriculum Lead for projects.
 
+That's the team! Because of these folks, instructors get first-class treatment as they are guided through the content creation process. For more information on the benefits of becoming an instructor, read the FAQs [here](datacamp.com/create). If you want to become an instructor, apply [here](https://boards.greenhouse.io/datacamp/jobs/1267314) to create a course and [here](https://boards.greenhouse.io/datacamp/jobs/1289131) to create a project.
+
 ![Learn, Practice, Apply](img/learn_practice_apply.png)
 
 _DataCamp's [Learn, Practice, Apply](https://www.datacamp.com/community/blog/datacamp-the-plan) philosophy._
-
-That's the team! Because of these folks, instructors get first-class treatment as they are guided through the content creation process. For more information on the benefits of becoming an instructor, read the FAQs [here](datacamp.com/create). If you want to become an instructor, apply [here](https://boards.greenhouse.io/datacamp/jobs/1267314) to create a course and [here](https://boards.greenhouse.io/datacamp/jobs/1289131) to create a project.
