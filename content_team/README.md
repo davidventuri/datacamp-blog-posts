@@ -56,7 +56,11 @@ Meet [Richie](https://www.linkedin.com/in/richierocks/) and [Kaelen](https://www
 
 Meet [David](https://www.linkedin.com/in/davidventuri/) (me!), Curriculum Lead for projects.
 
-**That's the team!** Because of these folks, instructors get first-class treatment as they are guided through the content creation process. For more information on the benefits of becoming an instructor, read the FAQs [here](datacamp.com/create). If you want to become an instructor, apply [here](https://boards.greenhouse.io/datacamp/jobs/1267314) to create a course and [here](https://boards.greenhouse.io/datacamp/jobs/1289131) to create a project.
+## Leadership
+
+Though instructors tend to not interact with them, the Content team is fearlessly lead by a Curriculum Director and a VP of Content. Meet [Mari](https://www.linkedin.com/in/mari-nazary/) and [Martijn](https://www.linkedin.com/in/martijn-theuwissen-b569b933/) (who is also a co-founder of the company).
+
+**And that's the team!** Because of these folks, instructors get first-class treatment as they are guided through the content creation process. For more information on the benefits of becoming an instructor, read the FAQs [here](datacamp.com/create). If you want to become an instructor, apply [here](https://boards.greenhouse.io/datacamp/jobs/1267314) to create a course and [here](https://boards.greenhouse.io/datacamp/jobs/1289131) to create a project.
 
 ![Learn, Practice, Apply](img/learn_practice_apply.gif)
 
