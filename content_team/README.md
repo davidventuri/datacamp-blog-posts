@@ -1,4 +1,4 @@
-How is content created at DataCamp? Behind the scenes with the team behind the screen
+# How is content created at DataCamp? The team behind the screen
 
 A decision was made early in [DataCamp's history](https://www.datacamp.com/about) to outsource our instructors so we can attract the best talent and build as many high-quality courses and projects as quickly as possible. DataCamp [instructors](https://www.datacamp.com/create) -- _academics, data scientists in industry, and open-source software developers, among others_ -- are hired on a part-time, contract basis that allows them to retain all of the intellectual property and earn a royalty based on student completions. This is great for everyone involved -- instructors, students, and DataCamp.
 
