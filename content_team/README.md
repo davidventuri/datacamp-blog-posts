@@ -40,7 +40,7 @@ Meet [Adrián](https://www.linkedin.com/in/adrian-soto/), [Amy](https://www.link
 
 DataCamp prides itself on having the best quality data science curriculum around. The Content Quality team makes sure that statement stays true. A Content Quality Analyst's role is to work with our instructors to maintain and improve their content, based upon feedback from students and course performance data. They review text and code to ensure they are high quality, and write new automated tests in Python and R to provide personalized feedback for students.
 
-Meet [Richie](https://www.linkedin.com/in/richierocks/) and [Kaelen](https://www.linkedin.com/in/kaelen-medeiros-b0aab547/), Content Quality Lead and Content Quality Analyst.
+Meet [Richie](https://www.linkedin.com/in/richierocks/) and [Kaelen](https://www.linkedin.com/in/kaelen-medeiros-b0aab547/), Head of Content Quality and Content Quality Analyst.
 
 ## The Practice Team
 
