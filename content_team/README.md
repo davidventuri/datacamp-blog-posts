@@ -4,7 +4,7 @@ A decision was made early in [DataCamp's history](https://www.datacamp.com/about
 
 Do you ever wonder how these instructors go about creating their courses and projects, though? If you think it would be difficult to create a consistent learning experience with instructors that have all different kinds of backgrounds, _you're right_. An academic's instincts for creating content are different than an industry expert's are different than an open-source software developer's. There are also cultural, generational, and programming language backgrounds to consider.
 
-To solve this problem, DataCamp has a Content team in-house comprised of **Instructor Recruiters, Curriculum Leads, Content Developers,** and **Content Quality Analysts. Here's what each of those roles entails.**
+To solve this problem, DataCamp has a Content team in-house comprised of **Instructor Recruiters, Curriculum Leads, Content Developers,** and **Content Quality Analysts.** Here's what each of those roles entails.
 
 _If you're interested in becoming an instructor, you can apply [here](https://boards.greenhouse.io/datacamp/jobs/1267314) for courses and [here](https://boards.greenhouse.io/datacamp/jobs/1289131) for projects._
 
