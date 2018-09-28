@@ -12,7 +12,7 @@ _If you're interested in becoming an instructor, you can apply [here](https://bo
 
 DataCamp instructors are subject matter experts with a passion for teaching, excellent communication skills, and a strong network of their own. If someone in the community fits this profile, it is the Instructor Recruiter's job to make sure they know who we are and why they should consider working with us. If their skills align with our current curriculum goals, an Instructor Recruiter invites them to apply for an instructor role, leads them through the application process, and assesses their application alongside our Curriculum Leads. Once approved, they also guide instructors through our contracting and onboarding processes.
 
-![DataCamp Instructors](https://i.imgur.com/YPMiInk.png)
+![DataCamp Instructors](img/instructors.png)
 
 Meet [Jen](https://www.linkedin.com/in/brickerjennifer/), an Instructor Recruiter at DataCamp.
 
@@ -32,7 +32,7 @@ Following the Curriculum Lead's initial planning phase, it is the responsibility
 
 CDs also write automated tests in Python and R to provide personalized feedback for students and make data-driven suggestions for course improvements based on student feedback and engagement data.
 
-![A DataCamp course called "Sentiment Analysis in R: The Tidy Way](https://i.imgur.com/eJcLaXW.png)
+![A DataCamp course called "Sentiment Analysis in R: The Tidy Way](img/course.png)
 
 Meet [Adrián](https://www.linkedin.com/in/adrian-soto/), [Amy](https://www.linkedin.com/in/amy-peterson-6143ba137/), [Becca](https://www.linkedin.com/in/beccarobins/), [David](https://www.linkedin.com/in/dcamposliz/), [Hadrien](https://www.linkedin.com/in/hadrienlacroix/), [Sara](https://www.linkedin.com/in/sarabillen/), and [Sumedh](https://www.linkedin.com/in/psumedh/), Content Developers, and [Yashas](https://www.linkedin.com/in/yashasroy/), Content Development Lead at DataCamp.
 
@@ -54,11 +54,11 @@ Meet [Richie](https://www.linkedin.com/in/richierocks/) and [Kaelen](https://www
 
 [DataCamp projects](https://www.datacamp.com/projects) are where you **Apply** the several of skills you Learned in courses in a real-world, end-to-end data analysis. Like mobile, the projects team is currently a team of one: a Curriculum Lead that performs all of the roles above.
 
-![A DataCamp project called "A Network Analysis of Game of Thrones"](https://i.imgur.com/i8LTcM9.jpg)
+![A DataCamp project called "A Network Analysis of Game of Thrones"](img/project.png)
 
 Meet [David](https://www.linkedin.com/in/davidventuri/) (me!), Curriculum Lead for projects.
 
-![Learn, Practice, Apply]("Learning Trinity 2 - White.png")
+![Learn, Practice, Apply](img/learn_practice_apply.png)
 
 _DataCamp's [Learn, Practice, Apply](https://www.datacamp.com/community/blog/datacamp-the-plan) philosophy._
 
